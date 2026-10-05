@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+}
